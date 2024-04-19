@@ -1,0 +1,12 @@
+https://www.barchart.com/futures/quotes/DX*0/opinion?view=strengthDirection
+https://www.barchart.com/forex/quotes/%5EUSDCHF/opinion?view=strengthDirection
+https://www.barchart.com/futures/quotes/E6Y00/opinion?view=strengthDirection
+https://www.barchart.com/futures/quotes/DX*0/opinion?view=strengthDirection
+https://www.barchart.com/forex/quotes/%5EUSDCAD/opinion?view=strengthDirection
+https://www.barchart.com/forex/quotes/%5EGBPUSD/opinion?view=strengthDirection
+https://www.barchart.com/futures/quotes/E6Y00/opinion?view=strengthDirection
+https://www.barchart.com/futures/quotes/D6*0/opinion?view=strengthDirection
+https://www.barchart.com/forex/quotes/%5EEURUSD/opinion?view=strengthDirection
+https://www.barchart.com/forex/quotes/%5EUSDJPY/opinion?view=strengthDirection
+https://www.barchart.com/forex/quotes/%5EAUDUSD/opinion?view=strengthDirection
+https://www.barchart.com/futures/quotes/A6*0/opinion?view=strengthDirection

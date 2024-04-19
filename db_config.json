@@ -1,0 +1,7 @@
+{
+    "user": "your_user_name",
+    "password": "your_pass",
+    "host": "localhost",
+    "database": "barchart_scraper",
+    "raise_on_warnings": true
+}
