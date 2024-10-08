@@ -73,3 +73,10 @@ To run the scraper, execute the main script:
 ```bash
 python scraper.py
 ```
+
+## Database Structure
+
+- `currency`: Holds currency names and their corresponding IDs.
+- `ind_name`: Contains names of indicators and their IDs.
+- `barchart_strength_direction`: Maps signal types (strength and direction) to their IDs.
+- `barchart`: Stores scraped data including currency, indicator, strength, direction, signal type, and timestamps.
