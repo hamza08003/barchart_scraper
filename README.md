@@ -40,19 +40,19 @@ pip install selenium beautifulsoup4 mysql-connector-python pytz schedule
 
 ## Installation
 
-- 1. Clone the repository to your local machine:
+1. Clone the repository to your local machine:
 
 ```bash
 git clone https://github.com/yourusername/currency-data-scraper.git
 ```
 
-- 2. Navigate to the project directory:
+2. Navigate to the project directory:
 
 ```bash
 cd currency-data-scraper
 ```
 
-- 3. Create a JSON file named db_config.json in the project root to store your MySQL database credentials. The structure of the file should be as follows:
+3. Create a JSON file named db_config.json in the project root to store your MySQL database credentials. The structure of the file should be as follows:
 
 ```json
 {
@@ -63,7 +63,7 @@ cd currency-data-scraper
 }
 ```
 
-- 4. Create a links.txt file in the project root containing the URLs you want to scrape, one per line.
+4. Create a links.txt file in the project root containing the URLs you want to scrape, one per line.
  
 
 ## Usage
