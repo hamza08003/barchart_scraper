@@ -9,8 +9,6 @@ A Python-based web scraping project that collects currency indicator data from s
 - [Installation](#installation)
 - [Usage](#usage)
 - [Database Structure](#database-structure)
-- [Scheduled Execution](#scheduled-execution)
-- [License](#license)
 
 ## Working
 
@@ -38,3 +36,40 @@ You can install the required libraries using pip:
 
 ```bash
 pip install selenium beautifulsoup4 mysql-connector-python pytz schedule
+```
+
+## Installation
+
+- 1. Clone the repository to your local machine:
+
+```bash
+git clone https://github.com/yourusername/currency-data-scraper.git
+```
+
+- 2. Navigate to the project directory:
+
+```bash
+cd currency-data-scraper
+```
+
+- 3. Create a JSON file named db_config.json in the project root to store your MySQL database credentials. The structure of the file should be as follows:
+
+```json
+{
+    "user": "your_username",
+    "password": "your_password",
+    "host": "localhost",
+    "database": "your_database_name"
+}
+```
+
+- 4. Create a links.txt file in the project root containing the URLs you want to scrape, one per line.
+ 
+
+## Usage
+
+To run the scraper, execute the main script:
+
+```bash
+python scraper.py
+```
